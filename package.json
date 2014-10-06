@@ -1,0 +1,28 @@
+{
+  "name": "listd",
+  "preferGlobal": true,
+  "version": "0.1.0",
+  "description": "Extensible daemon used to watch for and react to changes in structured list files",
+  "main": "listd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/csauve/listd.git"
+  },
+  "keywords": [
+    "list",
+    "yaml",
+    "watcher",
+    "file",
+    "todo",
+    "task"
+  ],
+  "author": "csauve (https://github.com/cssauve)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cssauve/listd/issues"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "js-yaml": "^3.2.2"
+  }
+}
